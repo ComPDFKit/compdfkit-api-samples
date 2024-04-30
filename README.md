@@ -1,13 +1,13 @@
-## ComPDFKit API
+## ComPDFKit PDF API
 
-[ComPDFKit PDF API](https://api.compdf.com/) is organized around the REST standard and provides you with a simple document-upload, document-process, document-download workflow. Supporting various programming languages (such as [Java](https://api.compdf.com/api-libraries/in-java), [Python](https://api.compdf.com/api-libraries/in-python), JavaScript, etc.), ComPDFKit API offers rich PDF functionalities, including conversion, document editor, data extraction, and so forth.  
+[ComPDFKit PDF API](https://api.compdf.com/) is organized around the REST standard and provides you with a simple document-upload, document-process, document-download workflow. Supporting various programming languages (such as [Java](https://api.compdf.com/api-libraries/in-java), [Python](https://api.compdf.com/api-libraries/in-python), [C#](https://api.compdf.com/api-libraries/in-net), [PHP](https://api.compdf.com/api-libraries/in-php), [Swift](https://api.compdf.com/api-libraries/in-swift), JavaScript, etc.), ComPDFKit API offers rich PDF functionalities, including conversion, document editor, data extraction, and so forth. 
 
 Before integrating the below PDF capabilities, you can register a free [ComPDFKit API](https://api.compdf.com/signup) account to process 1,000 files per month without costs and limitations. 
 
 | [PDF to Word](https://api.compdf.com/api-reference/pdf-to-word) | [PDF to Excel](https://api.compdf.com/api-reference/pdf-to-excel) | **[PDF to PPT](https://api.compdf.com/api-reference/pdf-to-ppt)** | [PDF to HTML](https://api.compdf.com/api-reference/pdf-to-html) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | [PDF to RTF](https://api.compdf.com/api-reference/pdf-to-rtf) | [PDF To Image](https://api.compdf.com/api-reference/pdf-to-image) | [PDF to CSV](https://api.compdf.com/api-reference/pdf-to-csv) | [PDF to TXT](https://api.compdf.com/api-reference/pdf-to-txt) |
-| [PDF to JSON](https://api.compdf.com/api-reference/pdf-to-json) | [PDF to Editable PDF](https://api.compdf.com/api-reference/pdf-to-editable-pdf-tool-guide) | [Image to Word](https://api.compdf.com/api-reference/image-to-word) | [Image to Excel](https://api.compdf.com/api-reference/image-to-excel) |
+| [Data Extraction](https://api.compdf.com/api-reference/pdf-to-json) | [PDF to Editable PDF](https://api.compdf.com/api-reference/pdf-to-editable-pdf-tool-guide) | [Image to Word](https://api.compdf.com/api-reference/image-to-word) | [Image to Excel](https://api.compdf.com/api-reference/image-to-excel) |
 | [Image to PPT](https://api.compdf.com/api-reference/image-to-ppt) | [Image to HTML](https://api.compdf.com/api-reference/image-to-html) | [Image to RTF](https://api.compdf.com/api-reference/image-to-rtf) | [Image to CSV](https://api.compdf.com/api-reference/image-to-csv) |
 | [Image to TXT](https://api.compdf.com/api-reference/image-to-txt) | [Word to PDF](https://api.compdf.com/api-reference/word-to-pdf) | [Excel to PDF](https://api.compdf.com/api-reference/excel-to-pdf) | [PPT to PDF](https://api.compdf.com/api-reference/ppt-to-pdf) |
 | [HTML to PDF](https://api.compdf.com/api-reference/html-to-pdf) | [RTF to PDF](https://api.compdf.com/api-reference/rtf-to-pdf) | [PNG to PDF](https://api.compdf.com/api-reference/image-to-pdf) | [CSV to PDF](https://api.compdf.com/api-reference/csv-to-pdf) |
@@ -73,13 +73,13 @@ ComPDFKit has a professional R&D team that produces comprehensive technical docu
 - For detailed information, please visit our [API Reference](https://api.compdf.com/api-reference/overview) page.
 - Stay updated with the latest improvements through our [Changelog](https://www.compdf.com/api/changelog-compdfkit-api).
 - For technical assistance, please reach out to our [Technical Support](https://www.compdf.com/support).
-- To get more details and an accurate quote, please contact our [Sales Team](https://compdf.com/contact-us).
+- To get more details and an accurate quote, please contact our [Sales Team](https://api.compdf.com/contact-us).
 
 
 
 ## Related
 
-- Convert PDF to/ from other formats using [PDF online tools](https://www.compdf.com/pdf-tools).
-- Experience [ComPDFKit Web Demo](https://www.compdf.com/webviewer/demo) on any browser.
+- Convert PDF to/ from other formats using [PDF online tools](https://www.compdf.com/pdf-tools)
 - [Convert PDF to Image (JPG, PNG) with ComPDFKit API and Java](https://www.compdf.com/blog/convert-pdf-to-image-in-java-compdfkit-api)
 - [Convert Excel to PDF Using Java - Free PDF Converter API](https://www.compdf.com/blog/convert-excel-to-pdf-using-java-api)
+- Experience [ComPDFKit Web Demo](https://www.compdf.com/webviewer/demo) on any browser

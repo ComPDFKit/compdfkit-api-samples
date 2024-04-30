@@ -1,4 +1,4 @@
-## ComPDFKit API List
+## ComPDFKit API
 
 [ComPDFKit PDF API](https://api.compdf.com/) is organized around the REST standard and provides you with a simple document-upload, document-process, document-download workflow. Supporting various programming languages (such as [Java](https://api.compdf.com/api-libraries/in-java), [Python](https://api.compdf.com/api-libraries/in-python), JavaScript, etc.), ComPDFKit API offers rich PDF functionalities, including conversion, document editor, data extraction, and so forth. 
 
